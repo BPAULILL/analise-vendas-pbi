@@ -212,18 +212,6 @@ Durante o desenvolvimento do projeto foram aplicados conceitos de:
 
 ---
 
-# 📌 Próximos passos
-
-Possíveis melhorias futuras:
-
-* Criar análises de crescimento comparativo (YoY/MoM)
-* Adicionar segmentação RFM completa dos clientes
-* Criar previsão de vendas
-* Implementar alertas de indicadores críticos
-* Documentar todas as medidas DAX utilizadas
-
----
-
 ## Autor
 
 **BPAULILL**
