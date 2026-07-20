@@ -58,7 +58,7 @@ Foi criada uma estrutura de dados organizada para facilitar análises e criaçã
 Modelo utilizado:
 
 <p align="center">
-<img width="1433" height="795" alt="image" src="https://github.com/user-attachments/assets/bc7d226d-7261-4f36-bd78-9a732fc309f9" />
+<img width="791" height="602" alt="image" src="https://github.com/user-attachments/assets/57168e72-3109-4b20-a1c1-3da008ad66b7" />
 </p>
 
 A modelagem permite análises por diferentes perspectivas:
