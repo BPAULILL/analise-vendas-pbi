@@ -92,7 +92,7 @@ Principais indicadores:
 * 🌎 Top 5 estados por faturamento
 
 <p align="center">
-<img width="662" height="364" alt="Visão Geral" src="https://github.com/user-attachments/assets/f3b56f8c-153e-417f-af3c-76e957691bcc" />
+  <img width="1441" height="800" alt="image" src="https://github.com/user-attachments/assets/e8b9ec53-6745-486f-8a88-a3969415b9e5" />
 </p>
 
 ---
@@ -115,7 +115,7 @@ Análises realizadas:
 * Top 10 clientes por LTV
 
 <p align="center">
-<img width="665" height="372" alt="Clientes" src="https://github.com/user-attachments/assets/b1fbb294-bdf0-401c-83a5-4ca6d1881880" />
+<img width="1448" height="799" alt="image" src="https://github.com/user-attachments/assets/613fc540-aa91-4885-adb3-19244ca6a68d" />
 </p>
 
 ---
@@ -181,7 +181,7 @@ Análises realizadas:
 * Nota média por fornecedor
 
 <p align="center">
-<img width="664" height="368" alt="Reviews" src="https://github.com/user-attachments/assets/6b3cbb78-6c42-4f6b-bcee-c8d480fc8492" />
+<img width="1439" height="804" alt="image" src="https://github.com/user-attachments/assets/12a13257-3f83-4fef-b25a-ae640f6dfd0f" />
 </p>
 
 ---
