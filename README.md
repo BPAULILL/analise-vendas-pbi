@@ -7,16 +7,14 @@ Explicação página a página:
 
 Página 1 — Visão Geral (Executivo)
 Objetivo: mostrar rapidamente a saúde do negócio.
-Topo (cards):
 	• Faturamento total
 	• Número de pedidos
 	• Ticket médio
 	• Clientes ativos
-Meio (gráficos principais):
 	• Vendas por mês (linha)
 	• Top 5 produtos por receita (barras)
 	• Faturamento por Categoria
-  • Top 5 Estados por faturamento
+    • Top 5 Estados por faturamento
   <p align="center">
   <img
     width="662"
@@ -29,12 +27,10 @@ Meio (gráficos principais):
 
 Página 2 — Clientes (People)
 Objetivo: entender comportamento, perfil e valor dos clientes.
-Topo (cards):
 	• Total de clientes
 	• Idade média
 	• LTV médio (valor total que um cliente gera para uma empresa ao longo de todo o seu relacionamento com ela)
 	• Recência média (dias desde última compra)
-Meio:
 	• Distribuição por faixa etária
 	• Clientes por estado
 	• Origem dos clientes (Source)
@@ -50,12 +46,10 @@ Meio:
 
 Página 3 — Vendas (Pedidos)
 Objetivo: analisar performance comercial.
-Topo (cards):
 	• Total de pedidos
 	• Quantidade total de itens
 	• Desconto médio
 	• Impostos médios (Tax)
-Meio:
 	• Vendas por dia/semana/mês
 	• Vendas por categoria
 	• Vendas por fornecedor (Vendor)
@@ -71,11 +65,9 @@ Meio:
 
 Página 4 — Produtos (Products)
 Objetivo: entender o portfólio e sua performance.
-Topo (cards):
 	• Total de produtos
 	• Preço médio
 	• Nota média dos produtos
-Meio:
 	• Produtos por categoria
 	• Produtos por fornecedor
 	• Preço vs quantidade vendida (scatter plot)
@@ -91,10 +83,8 @@ Meio:
 
 Página 5 — Reviews (Reviews)
 Objetivo: medir percepção e qualidade.
-Topo (cards):
 	• Total de reviews
 	• Nota média geral
-Meio:
 	• Distribuição de notas (1–5)
 	• Reviews por mês
 	• Nota média por categoria
