@@ -35,8 +35,9 @@ O dashboard busca responder perguntas de negócio como:
 
 Os dados utilizados no projeto estão disponíveis neste arquivo:
 
-[Dataset utilizado]((https://github.com/BPAULILL/analise-vendas-pbi/tree/main/Dados))
-[Dicionário (Colunas)]((https://github.com/BPAULILL/analise-vendas-pbi/blob/main/Colunas.xlsx))
+[Dataset utilizado]: https://github.com/BPAULILL/analise-vendas-pbi/tree/main/Dados
+
+[Dicionário (Colunas)]: https://github.com/BPAULILL/analise-vendas-pbi/blob/main/Colunas.xlsx
 
 O conjunto de dados contém informações relacionadas a:
 
