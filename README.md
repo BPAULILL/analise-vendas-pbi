@@ -1,2 +1,84 @@
-# an-lise-de-vendas-pbi
+# analise-vendas-pbi
 Dashboard em Power BI que demonstra os principais indicadores relacionados a vendas, produtos, pessoas e reviews dos produtos.
+
+Dados usados: https://github.com/BPAULILL/analise-vendas-pbi/blob/main/Colunas.xlsx
+
+Explicação página a página:
+
+Página 1 — Visão Geral (Executivo)
+<img width="662" height="364" alt="image" src="https://github.com/user-attachments/assets/f3b56f8c-153e-417f-af3c-76e957691bcc" />
+Objetivo: mostrar rapidamente a saúde do negócio.
+Topo (cards):
+	• Faturamento total
+	• Número de pedidos
+	• Ticket médio
+	• Clientes ativos
+Meio (gráficos principais):
+	• Vendas por mês (linha)
+	• Top 5 produtos por receita (barras)
+	• Faturamento por Categoria
+  • Top 5 Estados por faturamento
+
+
+Página 2 — Clientes (People)
+<img width="665" height="372" alt="image" src="https://github.com/user-attachments/assets/b1fbb294-bdf0-401c-83a5-4ca6d1881880" />
+Objetivo: entender comportamento, perfil e valor dos clientes.
+Topo (cards):
+	• Total de clientes
+	• Idade média
+	• LTV médio (valor total que um cliente gera para uma empresa ao longo de todo o seu relacionamento com ela)
+	• Recência média (dias desde última compra)
+Meio:
+	• Distribuição por faixa etária
+	• Clientes por estado
+	• Origem dos clientes (Source)
+	• Top 10 clientes por LTV
+
+Página 3 — Vendas (Pedidos)
+<img width="668" height="365" alt="image" src="https://github.com/user-attachments/assets/014215d6-b5ec-426d-a7df-18a8cba7b560" />
+Objetivo: analisar performance comercial.
+Topo (cards):
+	• Total de pedidos
+	• Quantidade total de itens
+	• Desconto médio
+	• Impostos médios (Tax)
+Meio:
+	• Vendas por dia/semana/mês
+	• Vendas por categoria
+	• Vendas por fornecedor (Vendor)
+	• Ticket médio por estado
+
+Página 4 — Produtos (Products)
+<img width="668" height="360" alt="image" src="https://github.com/user-attachments/assets/f86137e1-8d7d-4b8c-b23c-82cf0fc6c99c" />
+Objetivo: entender o portfólio e sua performance.
+Topo (cards):
+	• Total de produtos
+	• Preço médio
+	• Nota média dos produtos
+Meio:
+	• Produtos por categoria
+	• Produtos por fornecedor
+	• Preço vs quantidade vendida (scatter plot)
+	• Produtos cadastrados por Ano/Mês
+
+Página 5 — Reviews (Reviews)
+<img width="664" height="368" alt="image" src="https://github.com/user-attachments/assets/6b3cbb78-6c42-4f6b-bcee-c8d480fc8492" />
+Objetivo: medir percepção e qualidade.
+Topo (cards):
+	• Total de reviews
+	• Nota média geral
+Meio:
+	• Distribuição de notas (1–5)
+	• Reviews por mês
+	• Nota média por categoria
+	• Nota média por fornecedor
+
+  
+
+  
+
+
+
+
+  
+
