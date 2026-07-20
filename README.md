@@ -17,7 +17,14 @@ Meio (gráficos principais):
 	• Top 5 produtos por receita (barras)
 	• Faturamento por Categoria
   • Top 5 Estados por faturamento
-  <img width="662" height="364" alt="image" src="https://github.com/user-attachments/assets/f3b56f8c-153e-417f-af3c-76e957691bcc" />
+  <p align="center">
+  <img
+    width="662"
+    height="364"
+    alt="image"
+    src="https://github.com/user-attachments/assets/f3b56f8c-153e-417f-af3c-76e957691bcc"
+  />
+</p>
 
 
 Página 2 — Clientes (People)
@@ -32,7 +39,14 @@ Meio:
 	• Clientes por estado
 	• Origem dos clientes (Source)
 	• Top 10 clientes por LTV
-	<img width="665" height="372" alt="image" src="https://github.com/user-attachments/assets/b1fbb294-bdf0-401c-83a5-4ca6d1881880" />
+	<p align="center">
+  <img
+    width="665"
+    height="372"
+    alt="image"
+    src="https://github.com/user-attachments/assets/b1fbb294-bdf0-401c-83a5-4ca6d1881880"
+  />
+</p>
 
 Página 3 — Vendas (Pedidos)
 Objetivo: analisar performance comercial.
@@ -46,7 +60,14 @@ Meio:
 	• Vendas por categoria
 	• Vendas por fornecedor (Vendor)
 	• Ticket médio por estado
-	<img width="668" height="365" alt="image" src="https://github.com/user-attachments/assets/014215d6-b5ec-426d-a7df-18a8cba7b560" />
+	<p align="center">
+  <img
+    width="668"
+    height="365"
+    alt="image"
+    src="https://github.com/user-attachments/assets/014215d6-b5ec-426d-a7df-18a8cba7b560"
+  />
+</p>
 
 Página 4 — Produtos (Products)
 Objetivo: entender o portfólio e sua performance.
@@ -59,7 +80,14 @@ Meio:
 	• Produtos por fornecedor
 	• Preço vs quantidade vendida (scatter plot)
 	• Produtos cadastrados por Ano/Mês
-	<img width="668" height="360" alt="image" src="https://github.com/user-attachments/assets/f86137e1-8d7d-4b8c-b23c-82cf0fc6c99c" />
+	<p align="center">
+  <img
+    width="668"
+    height="360"
+    alt="image"
+    src="https://github.com/user-attachments/assets/f86137e1-8d7d-4b8c-b23c-82cf0fc6c99c"
+  />
+</p>
 
 Página 5 — Reviews (Reviews)
 Objetivo: medir percepção e qualidade.
@@ -71,7 +99,14 @@ Meio:
 	• Reviews por mês
 	• Nota média por categoria
 	• Nota média por fornecedor
-<img width="664" height="368" alt="image" src="https://github.com/user-attachments/assets/6b3cbb78-6c42-4f6b-bcee-c8d480fc8492" />
+<p align="center">
+  <img
+    width="664"
+    height="368"
+    alt="image"
+    src="https://github.com/user-attachments/assets/6b3cbb78-6c42-4f6b-bcee-c8d480fc8492"
+  />
+</p>
   
 
   
