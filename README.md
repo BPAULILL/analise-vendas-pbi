@@ -6,7 +6,6 @@ Dados usados: https://github.com/BPAULILL/analise-vendas-pbi/blob/main/Colunas.x
 Explicação página a página:
 
 Página 1 — Visão Geral (Executivo)
-<img width="662" height="364" alt="image" src="https://github.com/user-attachments/assets/f3b56f8c-153e-417f-af3c-76e957691bcc" />
 Objetivo: mostrar rapidamente a saúde do negócio.
 Topo (cards):
 	• Faturamento total
@@ -18,10 +17,10 @@ Meio (gráficos principais):
 	• Top 5 produtos por receita (barras)
 	• Faturamento por Categoria
   • Top 5 Estados por faturamento
+  <img width="662" height="364" alt="image" src="https://github.com/user-attachments/assets/f3b56f8c-153e-417f-af3c-76e957691bcc" />
 
 
 Página 2 — Clientes (People)
-<img width="665" height="372" alt="image" src="https://github.com/user-attachments/assets/b1fbb294-bdf0-401c-83a5-4ca6d1881880" />
 Objetivo: entender comportamento, perfil e valor dos clientes.
 Topo (cards):
 	• Total de clientes
@@ -33,9 +32,9 @@ Meio:
 	• Clientes por estado
 	• Origem dos clientes (Source)
 	• Top 10 clientes por LTV
+	<img width="665" height="372" alt="image" src="https://github.com/user-attachments/assets/b1fbb294-bdf0-401c-83a5-4ca6d1881880" />
 
 Página 3 — Vendas (Pedidos)
-<img width="668" height="365" alt="image" src="https://github.com/user-attachments/assets/014215d6-b5ec-426d-a7df-18a8cba7b560" />
 Objetivo: analisar performance comercial.
 Topo (cards):
 	• Total de pedidos
@@ -47,9 +46,9 @@ Meio:
 	• Vendas por categoria
 	• Vendas por fornecedor (Vendor)
 	• Ticket médio por estado
+	<img width="668" height="365" alt="image" src="https://github.com/user-attachments/assets/014215d6-b5ec-426d-a7df-18a8cba7b560" />
 
 Página 4 — Produtos (Products)
-<img width="668" height="360" alt="image" src="https://github.com/user-attachments/assets/f86137e1-8d7d-4b8c-b23c-82cf0fc6c99c" />
 Objetivo: entender o portfólio e sua performance.
 Topo (cards):
 	• Total de produtos
@@ -60,9 +59,9 @@ Meio:
 	• Produtos por fornecedor
 	• Preço vs quantidade vendida (scatter plot)
 	• Produtos cadastrados por Ano/Mês
+	<img width="668" height="360" alt="image" src="https://github.com/user-attachments/assets/f86137e1-8d7d-4b8c-b23c-82cf0fc6c99c" />
 
 Página 5 — Reviews (Reviews)
-<img width="664" height="368" alt="image" src="https://github.com/user-attachments/assets/6b3cbb78-6c42-4f6b-bcee-c8d480fc8492" />
 Objetivo: medir percepção e qualidade.
 Topo (cards):
 	• Total de reviews
@@ -72,7 +71,7 @@ Meio:
 	• Reviews por mês
 	• Nota média por categoria
 	• Nota média por fornecedor
-
+<img width="664" height="368" alt="image" src="https://github.com/user-attachments/assets/6b3cbb78-6c42-4f6b-bcee-c8d480fc8492" />
   
 
   
