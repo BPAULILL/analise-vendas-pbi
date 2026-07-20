@@ -138,7 +138,7 @@ Análises realizadas:
 * Ticket médio por estado
 
 <p align="center">
-<img width="668" height="365" alt="Vendas" src="https://github.com/user-attachments/assets/014215d6-b5ec-426d-a7df-18a8cba7b560" />
+<img width="1433" height="795" alt="image" src="https://github.com/user-attachments/assets/42ea7248-4265-489e-a5c8-d04cb3f8857d" />
 </p>
 
 ---
@@ -160,7 +160,7 @@ Análises realizadas:
 * Cadastro de produtos ao longo do tempo
 
 <p align="center">
-<img width="668" height="360" alt="Produtos" src="https://github.com/user-attachments/assets/f86137e1-8d7d-4b8c-b23c-82cf0fc6c99c" />
+<img width="1439" height="799" alt="image" src="https://github.com/user-attachments/assets/d9e31794-d042-4373-a976-7c950c10f536" />
 </p>
 
 ---
