@@ -2,6 +2,11 @@
 Dashboard em Power BI que demonstra os principais indicadores relacionados a vendas, produtos, pessoas e reviews dos produtos.
 
 Dados usados: https://github.com/BPAULILL/analise-vendas-pbi/blob/main/Colunas.xlsx
+Modelagem de dados:
+<p align="center">
+<img width="776" height="613" alt="image" src="https://github.com/user-attachments/assets/d7967ce6-3b18-48a2-98da-166037d8c6bb" />
+</p>
+
 
 Explicação página a página:
 
